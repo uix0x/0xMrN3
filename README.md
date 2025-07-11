@@ -28,16 +28,7 @@
 
 
 - **WebSite:** [guns.lol](https://guns.lol/0.t)
----
 
-## Availability
-- **Open for Programming requests**
-- **and Hacking requests**
-- **and learn Ethical Hacking requests**
-###
 
 <br clear="both">
-
-![Snake animation](0xmrjoex.svg)
-
 ## 2022-2024 Contributions
