@@ -23,7 +23,8 @@
 - 🔍 Researching real-world vulnerabilities  
 - 🛡️ Reported flaws in:
   - Epic Games  
-  - Meta (Steam Games)  
+  - Meta (Steam Games)
+    ("System32") 
   - 12+ government systems  
 
 ---
@@ -57,15 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F&layout=compact&langs_count=5&theme=dracula" height="150" />
 </div>
 
----
 
-
-
----
-
-## 🧾 Custom GitHub Summary (Grade F)
-<img src="https://your-hosted-image-url.com/github-summary-grade-F.png" alt="GitHub summary with F grade" width="700"/>
-
----
 
 ## 📅 Contributions (2022–2024)
