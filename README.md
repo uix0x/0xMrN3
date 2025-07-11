@@ -1,4 +1,4 @@
-# Cybersecurity Expert, Bug Bounty Hunter, and Programmer
+# 🛡️ Cybersecurity Expert, Bug Bounty Hunter, and Programmer 
 
 ---
 
@@ -24,8 +24,8 @@
 
 ## 📬 Contact with Me
 
-[![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&style=flat-square)](https://youtube.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=flat-square)](https://instagram.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&style=flat-square)](https://youtube.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=flat-square)](https://instagram.com)  
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&style=flat-square)](https://discord.com)
 
 🔗 Website: [guns.lol](https://guns.lol)
@@ -42,11 +42,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxcex1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jxcex1&layout=compact&theme=radical)
+![GitHub Stats](./9f62122b-60d9-4012-85f8-7ae63ba9f4cc.png)
 
 ---
 
 ## 🕒 2022-2024 Contributions
 
-![GitHub Contribution Graph](https://github.com/jxcex1/jxcex1/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Graph](./5c7a1441-496b-4c1c-8989-9ffdb6eb1a08.png)
