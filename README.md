@@ -50,13 +50,12 @@
 - ✅ Open for **security & hacking collaborations**  
 - ✅ Available to **teach ethical hacking**
 
----
-
-## 📊 GitHub Stats
+<h2 align="center">M3-Tool</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=F&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=F&layout=compact&langs_count=5&theme=dracula" height="150" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F&layout=compact&langs_count=5&theme=dracula" height="150" />
 </div>
+
 
 ---
 
