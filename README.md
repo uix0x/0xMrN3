@@ -9,19 +9,19 @@
 
 ## Skills
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
 </div>
 
 ---
 
 ## Activities
-- Regular participant in CTF tournaments  
-- Actively researching security vulnerabilities  
-- Identified vulnerabilities in major companies like Epic Games and Meta, as well as 12 government websites  
+- Regular participant in FTF tournaments
+- Actively researching security vulnerabilities
+- Identified vulnerabilities in major companies like Epic Games and Meta, as well as 12 government websites
 
 ---
 
@@ -38,28 +38,22 @@
 </a>
 
 - **WebSite:** [guns.lol](https://guns.lol/0.t)
-
 ---
 
 ## Availability
-- **Open for Programming requests**  
-- **and Hacking requests**  
+- **Open for Programming requests**
+- **and Hacking requests**
 - **and learn Ethical Hacking requests**
 
----
-
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=0xmrjoex1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmrjoex1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-
 </div>
 
----
+###
 
-<img src="https://path-to-your-updated-image-with-B.png" alt="GitHub stats and language usage with B rating" width="700"/>
+<br clear="both" />
 
----
+###
 
 ## 2022–2024 Contributions
