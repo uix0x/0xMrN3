@@ -46,9 +46,14 @@
 - **and learn Ethical Hacking requests**
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=0xmrjoex1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmrjoex1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <br><br>
+  <!-- Custom GitHub Stats Replacement Badge -->
+  <img src="https://img.shields.io/badge/Language-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="35" alt="flutter badge"/>
 </div>
+
 
 ###
 
