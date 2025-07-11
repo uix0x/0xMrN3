@@ -55,6 +55,11 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmrjoex1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Most%20Used%20Languages" height="150" alt="Top Languages" />
 
+  <br><br>
+
+  <!-- Custom Badge to replace the 'C' grade -->
+  <img src="https://img.shields.io/badge/GitHub%20Grade-B-purple?style=for-the-badge&logo=github" height="35" alt="GitHub Grade Badge" />
+
 </div>
 
 ---
