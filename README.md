@@ -20,11 +20,11 @@
 
 ## 🧠 Activities
 - 🏆 Regular participant in CTF tournaments  
-- 🔍 Security vulnerability researcher  
-- 🛡️ Found vulnerabilities in:
+- 🔍 Researching real-world vulnerabilities  
+- 🛡️ Reported flaws in:
   - Epic Games  
-  - Meta (Facebook)  
-  - 12+ government websites  
+  - Meta (Steam Games)  
+  - 12+ government systems  
 
 ---
 
@@ -45,10 +45,10 @@
 
 ---
 
-## 💼 Availability
-- ✅ Open for Programming Requests  
-- ✅ Open for Hacking Consultations  
-- ✅ Open to Teach Ethical Hacking  
+## 🟢 Availability
+- ✅ Open for **programming requests**  
+- ✅ Open for **security & hacking collaborations**  
+- ✅ Available to **teach ethical hacking**
 
 ---
 
@@ -60,10 +60,9 @@
 
 ---
 
-## 🧾 Custom GitHub Summary
-<!-- Replace this image with the new F-graded version you created -->
-<img src="https://your-image-host.com/github-f-grade.png" alt="GitHub grade F chart and languages" width="700"/>
+## 🧾 Custom GitHub Summary (Grade F)
+<img src="https://your-hosted-image-url.com/github-summary-grade-F.png" alt="GitHub summary with F grade" width="700"/>
 
 ---
 
-## 🗓️ Contributions: 2022–2024
+## 📅 Contributions (2022–2024)
