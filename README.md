@@ -43,15 +43,18 @@
 ---
 
 ## Availability
-- 💻 Open for programming projects  
+- 🖥️ Open for programming projects  
 - 🛡️ Available for ethical hacking and bug bounty requests  
 - 📘 Willing to collaborate on learning ethical hacking  
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xmrjoex1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmrjoex1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=0xmrjoex1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=JX%20Tools'%20GitHub%20Stats" height="150" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmrjoex1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Most%20Used%20Languages" height="150" alt="Top Languages" />
+
 </div>
 
 ---
