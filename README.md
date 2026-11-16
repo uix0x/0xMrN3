@@ -1,10 +1,4 @@
 
-# ⚡ 0xM3 — Programmer & Tools Developer
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Software+Developer;Programmer+%26+Tool+Creator;Building+Custom+Tools;Turning+Ideas+Into+Code" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/PROGRAMMER-00FF9C?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
   <img src="https://img.shields.io/badge/TOOLS_DEVELOPER-171717?style=for-the-badge&logo=github&logoColor=00FF9C" />
