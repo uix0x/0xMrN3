@@ -1,3 +1,4 @@
+
 ## 👨‍💻 About Me
 
 I'm a programmer who loves building custom tools, developing applications, and creating automation solutions.
@@ -24,10 +25,10 @@ I turn ideas into code and build useful software designed to make everyday tasks
 ## ⚙️ What I Create
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Custom_Tools-00FF9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-00FF9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Applications-00FF9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scripts-00FF9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Custom_Tools-8B5CF6?style=for-the-badge&logo=gear&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-6366F1?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Applications-3B82F6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scripts-06B6D4?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -41,12 +42,12 @@ I turn ideas into code and build useful software designed to make everyday tasks
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=F&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=F&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=818CF8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" />
 </p>
 
 <p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=F&theme=tokyonight&hide_border=true" />
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=F&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=A78BFA" />
 </p>
 
 ---
@@ -72,7 +73,7 @@ I turn ideas into code and build useful software designed to make everyday tasks
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%" />
 </p>
 
 <h3 align="center">CODE • CREATE • INNOVATE</h3>
