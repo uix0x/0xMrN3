@@ -1,11 +1,3 @@
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PROGRAMMER-00FF9C?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
-  <img src="https://img.shields.io/badge/TOOLS_DEVELOPER-171717?style=for-the-badge&logo=github&logoColor=00FF9C" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 I'm a programmer who loves building custom tools, developing applications, and creating automation solutions.
