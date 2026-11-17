@@ -1,19 +1,19 @@
 
-## 👨‍💻 About Me
+  About Me
 
 I'm a programmer who loves building custom tools, developing applications, and creating software solutions.
 
 I turn ideas into code and build useful software designed to make tasks easier, faster, and more efficient.
 
-- 💻 Software Development
-- ⚙️ Custom Tools Creation
-- 🔧 Application Development
-- 🧠 Problem Solving
-- 🚀 Building Projects
+  Software Development
+   Custom Tools Creation
+ Application Development
+ Problem Solving
+ Building Projects
 
----
 
-## 🛠️ Languages & Technologies
+
+ Languages & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,cs,html,css,git,github,vscode&theme=dark" />
@@ -21,7 +21,7 @@ I turn ideas into code and build useful software designed to make tasks easier, 
 
 ---
 
-## ⚙️ What I Create
+ What I Create
 
 <p align="center">
   <img src="https://img.shields.io/badge/Custom_Tools-8B5CF6?style=for-the-badge" />
@@ -31,13 +31,13 @@ I turn ideas into code and build useful software designed to make tasks easier, 
 
 ---
 
-## 🎓 Certification
+ Certification
 
 **Certified Digital Forensic Investigator (DFE)**
 
 ---
 
-## 📊 GitHub Stats
+ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=F&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=false&border_color=999999&title_color=FFFFFF&text_color=AAAAAA" width="390" />
@@ -53,7 +53,7 @@ I turn ideas into code and build useful software designed to make tasks easier, 
 
 ---
 
-## 🌐 Find Me Here
+  Find Me Here
 
 <p align="center">
   <a href="https://www.youtube.com/@0xMrN3">
