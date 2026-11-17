@@ -51,7 +51,7 @@ I turn ideas into code and build useful software designed to make tasks easier, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F&layout=compact&langs_count=6&theme=dark&hide_border=false&border_color=999999&title_color=FFFFFF&text_color=AAAAAA" width="390" />
 </p>
 
----
+---f
 
   Find Me Here
 
