@@ -37,15 +37,18 @@ I turn ideas into code and build useful software designed to make tasks easier, 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=F&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=818CF8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" />
+  <img src="https://github-readme-stats.vercel.app/api?username=F&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=false&border_color=999999&title_color=FFFFFF&text_color=AAAAAA" width="390" />
 </p>
 
 <p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=F&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=A78BFA" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F&theme=dark&hide_border=false&border=999999&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F&layout=compact&langs_count=6&theme=dark&hide_border=false&border_color=999999&title_color=FFFFFF&text_color=AAAAAA" width="390" />
 </p>
 
 ---
